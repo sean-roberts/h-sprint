@@ -1,0 +1,15 @@
+{
+  "name": "h-sprint-link",
+  "author": "Sean Roberts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "micro serve.js"
+  },
+  "now": {
+    "alias": "sprint.now.sh"
+  },
+  "dependencies": {
+    "micro": "^7.3.0"
+  }
+}
