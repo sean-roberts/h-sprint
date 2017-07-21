@@ -1,4 +1,4 @@
-const URL = 'https://github.com/orgs/hypothesis/projects/19';
+const URL = 'https://github.com/orgs/hypothesis/projects/21';
 
 module.exports = (req, res) => {
     res.writeHead(302, {
